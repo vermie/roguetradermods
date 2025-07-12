@@ -1,0 +1,12 @@
+{
+  "UniqueName": "rechargeable-grenades",
+  "Version": "1.0.0",
+  "DisplayName": "RechargeableGrenades",
+  "Description": "Makes select grenade types recharge at the end of combat.",
+  "Author": "vermie",
+  "ImageName": "mod.png",
+  "WorkshopId": "666",
+  "Repository": "",
+  "HomePage": "",
+  "Dependencies": []
+}

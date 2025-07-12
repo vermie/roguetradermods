@@ -1,0 +1,8 @@
+{
+  "strings": {
+    "82c6b9c7-1f7c-4824-a1af-338a57d67413": { "Text": "Analysis Recall" },
+    "f9d3632c-dad3-4402-8237-12014513a04f": { "Text": "Against enemies affected by Extrapolation from the Overseer's Servo-Skull Swarm, the Overseer only consumes half the normal number of Exploit stacks.\nAffected features include:\n-<indent=5%>Attacks and damaging abilities</indent>\n-<indent=5%>Tactical Knowledge</indent>\n <indent=5%>When used a single target.</indent>\n-<indent=5%>Exploit Weakness</indent>\n <indent=5%>When used to reduce a targets armor to 0%, no Exploit stacks are consumed.</indent>" },
+    "6f52dc6f-0083-4b4c-9334-2bffac0dd0d4": { "Text": "Exploit Rank Tracking Buff Name" },
+    "11c86592-34c5-436e-bab6-5bf3a3727175": { "Text": "Exploit Rank Tracking Buff Description" }
+  }
+}

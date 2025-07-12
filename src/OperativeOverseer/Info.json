@@ -1,0 +1,14 @@
+{
+  "AssemblyName": "OperativeOverseer.dll",
+  "Author": "vermie",
+  "DisplayName": "OperativeOverseer",
+  "EntryMethod": "OperativeOverseer.Main.Load",
+  "GameVersion": "1.0.0",
+  "HomePage": "https://github.com/vermie/roguetradermods",
+  "Id": "OperativeOverseer",
+  "ManagerVersion": "0.23.0",
+  "Repository": "https://github.com/vermie/roguetradermods",
+  "Requirements": [],
+  "LoadAfter": [],
+  "Version": "1.0.0"
+}

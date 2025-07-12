@@ -1,0 +1,12 @@
+{
+  "UniqueName": "fair-cargo",
+  "Version": "1.0.0",
+  "DisplayName": "Fair Cargo",
+  "Description": "Cargo rewards reputation based on total volume in the stack.",
+  "Author": "vermie",
+  "ImageName": "mod.png",
+  "WorkshopId": "666",
+  "Repository": "",
+  "HomePage": "",
+  "Dependencies": []
+}

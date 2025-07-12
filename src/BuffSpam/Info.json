@@ -1,0 +1,14 @@
+{
+  "AssemblyName": "BuffSpam.dll",
+  "Author": "vermie",
+  "DisplayName": "Buff Spam Fix",
+  "EntryMethod": "BuffSpam.Main.Load",
+  "GameVersion": "1.0.0",
+  "HomePage": "https://github.com/vermie/roguetradermods",
+  "Id": "buff-spam-fix",
+  "ManagerVersion": "0.23.0",
+  "Repository": "https://github.com/vermie/roguetradermods",
+  "Requirements": [],
+  "LoadAfter": [],
+  "Version": "1.0.0"
+}

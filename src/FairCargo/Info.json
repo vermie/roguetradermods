@@ -1,0 +1,14 @@
+{
+  "AssemblyName": "FairCargo.dll",
+  "Author": "vermie",
+  "DisplayName": "FairCargo",
+  "EntryMethod": "FairCargo.Main.Load",
+  "GameVersion": "1.0.0",
+  "HomePage": "https://github.com/vermie/roguetradermods",
+  "Id": "fair-cargo",
+  "ManagerVersion": "0.23.0",
+  "Repository": "https://github.com/vermie/roguetradermods",
+  "Requirements": [],
+  "LoadAfter": [],
+  "Version": "1.0.0"
+}

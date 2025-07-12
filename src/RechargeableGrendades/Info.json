@@ -1,0 +1,14 @@
+{
+  "AssemblyName": "RechargeableGrenades.dll",
+  "Author": "vermie",
+  "DisplayName": "RechargeableGrenades",
+  "EntryMethod": "RechargeableGrenades.Main.Load",
+  "GameVersion": "1.0.0",
+  "HomePage": "https://github.com/vermie/roguetradermods",
+  "Id": "rechargeable-granades",
+  "ManagerVersion": "0.23.0",
+  "Repository": "https://github.com/vermie/roguetradermods",
+  "Requirements": [],
+  "LoadAfter": [],
+  "Version": "1.0.0"
+}

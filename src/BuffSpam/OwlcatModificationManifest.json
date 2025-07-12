@@ -1,0 +1,12 @@
+{
+  "UniqueName": "buff-spam-fix",
+  "Version": "1.0.0",
+  "DisplayName": "Buff Spam Fix",
+  "Description": "Changes certain aura buffs to remove log spam and buff icons.",
+  "Author": "vermie",
+  "ImageName": "mod.png",
+  "WorkshopId": "666",
+  "Repository": "",
+  "HomePage": "",
+  "Dependencies": []
+}

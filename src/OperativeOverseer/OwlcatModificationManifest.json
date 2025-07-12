@@ -1,0 +1,12 @@
+{
+  "UniqueName": "operator-overseer-talents",
+  "Version": "1.0.0",
+  "DisplayName": "Operator Overseer Talents",
+  "Description": "Adds new Operative-centric talents to Overseer.",
+  "Author": "vermie",
+  "ImageName": "mod.png",
+  "WorkshopId": "666",
+  "Repository": "",
+  "HomePage": "",
+  "Dependencies": []
+}
